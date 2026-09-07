@@ -12,8 +12,8 @@ Check out my pinned projects below, or explore all my repositories.
 - [Improbable_Mission_Force_Ops](https://github.com/MiguelBarross/Improbable_Mission_Force_Ops), a game built to explore and practice data structures
 
 ## Tech Stack
-**Languages:** C#, Java, JavaScript, TypeScript, Python, Kotlin
-**Frameworks:** .NET, Node.js, Angular, Streamlit
-**Databases & ORM/ODM:** SQL Server, MongoDB, Entity Framework, Mongoose
-**Machine Learning & Computer Vision:** YOLO, PyTorch, OpenCV, Roboflow
-**Tools & Platforms:** Git, Docker, NGINX, GitLab, Google Colab
+- **Languages:** C#, Java, JavaScript, TypeScript, Python, Kotlin
+- **Frameworks:** .NET, Node.js, Angular, Streamlit
+- **Databases & ORM/ODM:** SQL Server, MongoDB, Entity Framework, Mongoose
+- **Machine Learning & Computer Vision:** YOLO, PyTorch, OpenCV, Roboflow
+- **Tools & Platforms:** Git, Docker, NGINX, GitLab, Google Colab
