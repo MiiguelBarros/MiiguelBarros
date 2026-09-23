@@ -1,6 +1,6 @@
 # Hi, I'm Miguel Barros 👋
 
-Computer Engineering Graduate | Full-Stack Developer
+Software Engineer | Backend & Full-Stack Development | .NET · Angular · Java · AI · Automation
 
 ## Pinned
 Check out my pinned projects below, or explore all my repositories.
